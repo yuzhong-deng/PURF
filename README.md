@@ -1,4 +1,4 @@
-# PURF
+# PURF: Density-aware Point Cloud Upsampling via Relational Graph FlowMatching
 
 A lightweight, open-source reimplementation aligned with the RA-L paper (Density-aware Point Cloud Upsampling via Relational Graph FlowMatching). It keeps the core ideas: **density-aware heterogeneous graphs** (dense/sparse relations via a learnable threshold) and **flow-matching velocity prediction** to bridge noisy/sparse inputs to clean geometry efficiently.
 
