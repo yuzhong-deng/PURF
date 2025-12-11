@@ -13,8 +13,8 @@ PURF/
 ├─ requirements.txt
 ├─ datasets/
 │  ├─ PUGAN
-│  └─ PU1K
-│  └─ KITTI
+│  ├─ PU1K
+│  ├─ KITTI
 │  └─ CAMPUS
 └─ purf/
    ├─ __init__.py
